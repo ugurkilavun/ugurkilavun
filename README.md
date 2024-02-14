@@ -20,14 +20,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,js,c,cs,linux" />
   </a>
-</p>
+</p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurkilavun&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ugurkilavun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugurkilavun&show_icons=true&locale=en&theme=transparent" alt="ugurkilavun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugurkilavun&theme=transparent" alt="ugurkilavun" /></p>
-
+<h2 align="center"> 🐍 Snake 🐍 </h2>
 <!-- https://github.com/Platane/snk -->
 <picture>
   <source
