@@ -1,4 +1,6 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Uğur+KILAVUN;Second+line+of+text)](https://git.io/typing-svg) </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 <h1 align="center">Hi 👋, I'm Uğur KILAVUN</h1>
 <h3 align="center">A passionate backend developer from turkiye</h3>
 
