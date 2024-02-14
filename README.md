@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Uğur+KILAVUN;Second+line+of+text)](https://git.io/typing-svg)</h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Uğur+KILAVUN;Second+line+of+text)](https://git.io/typing-svg) </h1>
 <h1 align="center">Hi 👋, I'm Uğur KILAVUN</h1>
 <h3 align="center">A passionate backend developer from turkiye</h3>
 
