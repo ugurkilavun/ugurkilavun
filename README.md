@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Uğur+KILAVUN!;A+passionate+backend+developer+from+Turkiye;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Uğur+KILAVUN!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </h1>
 <!-- TEST -->
 <!-- s -->
 <!-- <h1 align="center">Hi 👋, I'm Uğur KILAVUN</h1> -->
-<h3 align="center">A passionate backend developer from Turkiye</h3>
+<h3 align="center">A passionate backend developer from Turkiye</h3><br>
 
 - 📫 How to reach me **ugurkilavun@hotmail.com**
 
