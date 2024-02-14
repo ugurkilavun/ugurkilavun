@@ -1,9 +1,9 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Uğur+KILAVUN!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </h1>
-<!-- TEST -->
-<!-- s -->
-<!-- <h1 align="center">Hi 👋, I'm Uğur KILAVUN</h1> -->
+
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h3 align="center">A passionate backend developer from Turkiye</h3><br>
 
 - 📫 How to reach me **ugurkilavun@hotmail.com**
@@ -13,8 +13,14 @@
 <a href="https://twitter.com/ugurkilavun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkilavun" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<!-- --------------------------------= Languages and Tools =-------------------------------- -->
+<!-- https://github.com/tandpfun/skill-icons/tree/main -->
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,php,js,linux" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurkilavun&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ugurkilavun" /></p>
 
@@ -22,6 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugurkilavun&theme=transparent" alt="ugurkilavun" /></p>
 
+<!-- https://github.com/Platane/snk -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
