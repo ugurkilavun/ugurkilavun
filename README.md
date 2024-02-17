@@ -15,7 +15,7 @@
 
 <!-- --------------------------------= Languages and Tools =-------------------------------- -->
 <!-- https://github.com/tandpfun/skill-icons/tree/main -->
-<h2 align="center"> 🔧 Languages and Tools:</h2>
+<h2 align="center"> 🔧 Languages and Tools </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,js,c,cs,linux" />
@@ -23,7 +23,7 @@
 </p><br>
 
 
-<h2 align="center"> 🐍 Snake 🐍 </h2>
+<h2 align="center"> 🐍 Snake </h2>
 <!-- https://github.com/Platane/snk -->
 <picture>
   <source
