@@ -6,7 +6,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h3 align="center">A passionate backend developer from Turkiye</h3><br>
 
-- 📫 How to reach me **ugurkilavun@hotmail.com**
+- 📫 How to reach me **kilavunugur@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,10 +18,9 @@
 <h2 align="center"> 🔧 Languages and Tools </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cs,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c,cs,linux,nodejs,express,postman" />
   </a>
 </p><br>
-
 
 <h2 align="center"> 🐍 Snake </h2>
 <!-- https://github.com/Platane/snk -->
