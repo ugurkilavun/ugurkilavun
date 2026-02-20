@@ -1,6 +1,6 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Uğur+KILAVUN!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Hi 👋, I'm Uğur KILAVUN">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+U%C4%9Fur+KILAVUN!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Hi 👋, I'm Uğur KILAVUN">
 </h1>
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
